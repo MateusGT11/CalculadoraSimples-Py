@@ -23,11 +23,11 @@
 
 ## 📃 Descrição do projeto 
 
-<p align="justify">
+<div align="center">
+  <img alt="Static Badge" src="https://img.shields.io/badge/EM%20BREVE-blue">
+</div>
  
-Projeto em desenvolvimento para disciplina de Desenvolvimento Web em HTML5, CSS, Javascript e PHP do curso de Sistemas de Informações. 
 
-Nestre projeto, criamos uma landing page para um serviço de streaming fictício entitulado "Streamverse", com o intuito de testar nossos conhecimentos obtidos durante o período. Utilizamos conceitos e funcionalidades básicas das linguagens HTML5, CSS3 e Javascript em seu desenvolvimento para criar um código claro e limpo, além de um visual bonito e agradável para o usuário.
 
 
 ## 🎬 Aplicação
@@ -43,11 +43,6 @@ Nestre projeto, criamos uma landing page para um serviço de streaming fictício
 [![My Skills](https://skillicons.dev/icons?i=python)](https://skillicons.dev)
 
 
-
-
-## 📁 Acesso ao projeto
-
-Você pode Você pode [acessar o código fonte do projeto](https://github.com/scppuna/streaming/).
 
 
 
