@@ -48,13 +48,6 @@ Um repositório composto por pequenos projetos para conclusão da discplina de P
 6. Lista de Tarefas:
     - Um programa para criar, organizar e gerenciar tarefas.
 
-## 🎬 Aplicação
-
-<div align="center">
-<strong> Imagens do projeto </strong>
-  <br>
-  <img alt="Static Badge" src="https://img.shields.io/badge/EM%20BREVE-blue">
-</div>
 
 ## 🛠️ Ferramentas utilizadas
 
